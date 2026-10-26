@@ -1,0 +1,6 @@
+{
+  "name": "انصاف آٹوز - Insaf Autos | مچھ بولان",
+  "description": "انصاف آٹوز مچھ بولان - ٹرکوں اور گاڑیوں کے اصلی انجن آئل، فلٹرز، گیئر آئل، ہائڈرولک آئل اور آٹو پارٹس۔ مالک ابو بکر۔ واٹس ایپ آرڈر اور لائیو بیک گراؤنڈ ریموور۔",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
